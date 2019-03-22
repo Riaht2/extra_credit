@@ -1,0 +1,16 @@
+header{
+  font-family: 'PT Serif', serif;
+}
+
+body{
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+a{
+  text-decoration: none;
+  color: black;
+}
+
+a:hover{
+  color: blue;
+}
